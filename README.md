@@ -1,8 +1,6 @@
 # Rest
-This project is web service for inventory management.
+This project is a Restful Web Services for inventory management.
 
 DB name is restdb.
-
-sql file is in repo.
 
 devolped using java - jersey - JAX-RX
